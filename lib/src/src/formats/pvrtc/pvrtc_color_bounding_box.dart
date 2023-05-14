@@ -1,4 +1,4 @@
-import '../../../image.dart';
+import '../../../../image.dart';
 
 class PvrtcColorBoundingBox<Color extends PvrtcColorRgbCore<Color>> {
   Color min;

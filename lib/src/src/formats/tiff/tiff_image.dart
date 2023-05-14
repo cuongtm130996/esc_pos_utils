@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 import 'package:archive/archive.dart';
-import '../../../image.dart';
+import '../../../../image.dart';
 import '../../internal/bit_operators.dart';
 
 class TiffImage {

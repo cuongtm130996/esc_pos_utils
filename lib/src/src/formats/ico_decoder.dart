@@ -1,4 +1,4 @@
-import '../../image.dart';
+import '../../../image.dart';
 import 'bmp/bmp_info.dart';
 
 const _TYPE_ICO = 1;

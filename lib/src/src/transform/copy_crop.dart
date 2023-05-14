@@ -1,4 +1,4 @@
-import '../../image.dart' show Point;
+import '../../../image.dart' show Point;
 import '../image.dart';
 
 /// Returns a cropped copy of [src].

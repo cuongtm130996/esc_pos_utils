@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import '../../image.dart';
+import '../../../image.dart';
 import '../internal/bit_operators.dart';
 
 enum ExifValueType {
